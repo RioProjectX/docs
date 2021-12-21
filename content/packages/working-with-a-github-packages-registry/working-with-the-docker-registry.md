@@ -27,6 +27,8 @@ Docker images previously stored in the Docker registry are being automatically m
 {% else %}
 <!-- The remainder of this article is displayed for releases that don't support the Container registry -->
 
+
+
 {% data reusables.package_registry.packages-ghes-release-stage %}
 {% data reusables.package_registry.packages-ghae-release-stage %}
 
