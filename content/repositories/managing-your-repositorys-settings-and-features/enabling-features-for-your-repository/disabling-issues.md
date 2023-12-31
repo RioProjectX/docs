@@ -16,8 +16,7 @@ topics:
 ---
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. Under Features, unselect the **Issues** checkbox.
-  ![Remove Issues checkbox](/assets/images/help/issues/issues_settings_remove_from_repo.png)
+1. Under "Features," deselect **Issues**.
 
 If you decide to enable issues again in the future, any issues that were previously added will be available.
 
@@ -25,7 +24,7 @@ If you decide to enable issues again in the future, any issues that were previou
 
 {% tip %}
 
-Please contact {% data variables.contact.contact_support %} if you want to turn off issues because of abuse from strangers.
+Please contact us through the {% data variables.contact.contact_support_portal %} if you want to turn off issues because of abuse from strangers.
 {% data reusables.policies.abuse %}
 
 {% endtip %}

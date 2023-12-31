@@ -18,7 +18,8 @@ topics:
   - Integration
 children:
   - /about-integration-with-code-scanning
+  - /using-code-scanning-with-your-existing-ci-system
   - /uploading-a-sarif-file-to-github
   - /sarif-support-for-code-scanning
 ---
-<!--For this article in earlier GHES versions, see /content/github/finding-security-vulnerabilities-and-errors-in-your-code-->
+

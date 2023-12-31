@@ -18,4 +18,6 @@ topics:
   - Fundamentals
 children:
   - /about-collaborative-development-models
+  - /best-practices-for-pull-requests
 ---
+

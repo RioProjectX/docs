@@ -8,12 +8,21 @@ versions:
   ghes: '*'
   ghae: '*'
 children:
+  - /about-github-for-enterprises
+  - /about-github-enterprise-cloud
+  - /setting-up-a-trial-of-github-enterprise-cloud
+  - /about-github-enterprise-server
+  - /setting-up-a-trial-of-github-enterprise-server
   - /about-github-ae
   - /about-upgrades-to-new-releases
   - /about-data-residency
+  - /deploying-github-ae
+  - /initializing-github-ae
   - /about-enterprise-accounts
   - /system-overview
   - /about-the-github-enterprise-api
-  - /creating-an-enterprise-account
+  - /best-practices-for-enterprises
+  - /accessing-compliance-reports-for-your-enterprise
 ---
+
 For more information, or to purchase {% data variables.product.prodname_enterprise %}, see [{% data variables.product.prodname_enterprise %}](https://github.com/enterprise).
